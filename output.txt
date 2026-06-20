@@ -1,0 +1,15 @@
+AGENTS.md
+CLAUDE.md
+Desktop
+Documents
+Downloads
+GEMINI.md
+Life
+marketingskills
+MCP_SETUP.md
+Music
+Pictures
+Projects
+Public
+snapshots
+Videos
